@@ -15,7 +15,7 @@ This is a full-stack application built using **Express (Backend) and React + Vit
 ## 🔧 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/sarimjkhan/qunomedical.git)
 cd qunomedical-task
 ```
 
